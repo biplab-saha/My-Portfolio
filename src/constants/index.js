@@ -231,12 +231,12 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/biplab-saha5523/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/biplab_saha_2004/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
@@ -244,35 +244,15 @@ export const mySocials = [
 export const experiences = [
   {
     title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    job: "I am currently freshers",
+    date: "2024-2027",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
-    ],
-  },
-  {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
-    contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
-    ],
-  },
-  {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
-    contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Pursuing B.Tech in Computer Science and Engineering at Swami Vivekananda University with a strong foundation in core computer science concepts.",
+      "Actively learning modern development tools and technologies, with hands-on experience in web development and data structures.",
+      "Built academic projects focusing on user experience, responsive design, and clean code practices using HTML, CSS, JavaScript, and React.",
+      "Practiced algorithmic thinking and logical problem-solving through competitive programming and coursework.",
+      "Collaborated on group assignments and mini-projects, demonstrating teamwork, time management, and communication skills.",
+      "Passionate about continuous learning and eager to contribute to real-world software development environments as a fresher.",
     ],
   },
 ];
